@@ -7,7 +7,6 @@ return {
         { section = "keys", padding = 1 },
         { section = "recent_files", title = "Recent Files", padding = 1 },
         { section = "projects", title = "Recent Projects", padding = 1 },
-        { section = "session", padding = 1 },
         { section = "startup" },
       },
       preset = {
